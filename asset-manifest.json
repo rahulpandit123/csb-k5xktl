@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rahulpandit123.github.io/csb-k5xktl/static/css/main.55db3b0f.chunk.css",
+    "main.js": "https://rahulpandit123.github.io/csb-k5xktl/static/js/main.bfbe3090.chunk.js",
+    "main.js.map": "https://rahulpandit123.github.io/csb-k5xktl/static/js/main.bfbe3090.chunk.js.map",
+    "runtime-main.js": "https://rahulpandit123.github.io/csb-k5xktl/static/js/runtime-main.3266a441.js",
+    "runtime-main.js.map": "https://rahulpandit123.github.io/csb-k5xktl/static/js/runtime-main.3266a441.js.map",
+    "static/js/2.63d2a31d.chunk.js": "https://rahulpandit123.github.io/csb-k5xktl/static/js/2.63d2a31d.chunk.js",
+    "static/js/2.63d2a31d.chunk.js.map": "https://rahulpandit123.github.io/csb-k5xktl/static/js/2.63d2a31d.chunk.js.map",
+    "index.html": "https://rahulpandit123.github.io/csb-k5xktl/index.html",
+    "static/css/main.55db3b0f.chunk.css.map": "https://rahulpandit123.github.io/csb-k5xktl/static/css/main.55db3b0f.chunk.css.map",
+    "static/js/2.63d2a31d.chunk.js.LICENSE.txt": "https://rahulpandit123.github.io/csb-k5xktl/static/js/2.63d2a31d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3266a441.js",
+    "static/js/2.63d2a31d.chunk.js",
+    "static/css/main.55db3b0f.chunk.css",
+    "static/js/main.bfbe3090.chunk.js"
+  ]
+}
